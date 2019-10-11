@@ -1,6 +1,9 @@
 # Lab 7: Refugee Stats with Dictionaries
 ### Due: 10/11/2019
 
+| Grade   	|      10/10     	|
+|----------	|:------------	|
+
 1. Review the data table located under the **_Refugee camps by country and population_** section: https://en.wikipedia.org/wiki/Refugee_camp
 
 2. Create a dictionary with 5 key-value pairs consisting of a country name and an integer that represents the number of refugees in refugee camps in the selected country, for a year of your choice. The dictionary should represent country names as keys and the population as values.
