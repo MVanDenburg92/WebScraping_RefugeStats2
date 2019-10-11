@@ -26,6 +26,6 @@ populations(d)
 #telling how many refugees are in each country: "CountryX has 1234567 refugees."
 def printData(x):
     for (key,value) in x.items():
-        print("The country of " + str(key) + "has a population of " + str(value))
+        print("The country of " + str(key) + " has a population of " + str(value))
     
 printData(d)
